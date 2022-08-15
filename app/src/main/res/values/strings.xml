@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nanti di hapus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">Play</string>
+    <string name="pilih_lawanmu">PILIH LAWANMU</string>
+    <string name="computer_vs_pemain">Computer vs Pemain</string>
+    <string name="pemain_vs_pemain">Pemain vs Pemain</string>
+    <string name="snackbar">snackbar</string>
+</resources>
